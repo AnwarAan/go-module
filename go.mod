@@ -1,3 +1,3 @@
-module github.com/AnwarAan/go-module
+module github.com/AnwarAan/go-module/v2
 
 go 1.20
